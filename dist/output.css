@@ -512,3 +512,7 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.active-link {
+  border-bottom-width: 2px;
+}
